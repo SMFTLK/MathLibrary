@@ -7,11 +7,11 @@
 int main()
 {
 	fibonacci_init(1, 1);
-	do {
-		std::cout << fibonacci_index() << ": "
-			<< fibonacci_current() << std::endl;
+	do
+	{
+		std::cout	<< fibonacci_index() 	<< ": "
+				<< fibonacci_current() 	<< std::endl;
 	} while (fibonacci_next());
-	std::cout << fibonacci_index() + 1 <<
-		" Значения последовательности Фибоначчи вписываются в " <<
-		"unsigned 64-bit integer." << std::endl;
+	std::cout << fibonacci_index() + 1 << 	" Значения последовательности Фибоначчи вписываются в "
+						"unsigned 64-bit integer." << std::endl;
 }
