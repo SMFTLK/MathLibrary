@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/C++/Dynamic library/build",
+  "command": "C:/Users/asljk/gcc/bin/g++.exe  @CMakeFiles/math.dir/includes_CXX.rsp -g -o CMakeFiles/math.dir/src/math.cpp.obj -c \"E:/C++/Dynamic library/src/math.cpp\"",
+  "file": "E:/C++/Dynamic library/src/math.cpp",
+  "output": "CMakeFiles/math.dir/src/math.cpp.obj"
+},
+{
+  "directory": "E:/C++/Dynamic library/build",
+  "command": "C:/Users/asljk/gcc/bin/g++.exe  @CMakeFiles/math.dir/includes_CXX.rsp -g -o CMakeFiles/math.dir/main.cpp.obj -c \"E:/C++/Dynamic library/main.cpp\"",
+  "file": "E:/C++/Dynamic library/main.cpp",
+  "output": "CMakeFiles/math.dir/main.cpp.obj"
+}
+]
